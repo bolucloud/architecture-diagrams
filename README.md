@@ -4,6 +4,6 @@ This repo is used to store cloud architecture diagrams for apps and cloud infras
 
 We can build infrastructure as a code, why not diagrams.
 
-I am using this tool https://diagrams.mingrammer.com/ which enables you to draw cloud system architecture in python code.
+I am using this tool https://diagrams.mingrammer.com/ which enables you to draw cloud system architectures in Python code.
 
 > Diagram as Code allows you to track the architecture diagram changes in any version control system.
