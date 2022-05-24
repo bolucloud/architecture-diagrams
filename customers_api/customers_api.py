@@ -1,11 +1,5 @@
 from diagrams import Cluster, Diagram
-from diagrams.aws.security import Cognito
-from diagrams.aws.integration import Appsync
 from diagrams.aws.database import DDB
-from diagrams.aws.compute import Lambda
-from diagrams.aws.storage import S3
-from diagrams.aws.engagement import SES
-from diagrams.aws.general import User
 from diagrams.aws.security import IAMRole
 from diagrams.aws.compute import EB
 from diagrams.aws.general import Client
